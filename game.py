@@ -1,3 +1,4 @@
+#memory puzzle game created by Jayes
 import pygame, sys
 from pygame.locals import *
 import random
