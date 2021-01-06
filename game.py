@@ -1,4 +1,7 @@
 #memory puzzle game created by Jayes
+# Let's play
+
+#Lets play the game
 import pygame, sys
 from pygame.locals import *
 import random
