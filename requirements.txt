@@ -1,3 +1,3 @@
 Languages used : Python
 Text Editor : Visual Studio Code
-Module requirement : PyGame
+Module requirement : PyGame Module
